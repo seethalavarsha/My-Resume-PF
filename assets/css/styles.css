@@ -368,6 +368,9 @@ img {
   color: #fff;
   margin: 0 var(--mb-2);
 }
+.footer__icon i {
+  color: #fff !important;
+}
 .footer__copy {
   font-size: var(--smaller-font-size);
 }
