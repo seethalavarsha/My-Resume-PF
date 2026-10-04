@@ -208,9 +208,10 @@ img {
   color: var(--first-color);
 }
 .home__img {
-  position: absolute;
+ /* position: absolute;
   right: 0;
-  bottom: 0;
+  bottom: 0;*/
+  justify-self: center;
   width: 300px;
 }
 /* .home__blob {
