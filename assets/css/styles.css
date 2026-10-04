@@ -225,7 +225,7 @@ img {
   width: 360px;
   height: 360px;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 0px;
 }
 /*BUTTONS*/
 .button {
