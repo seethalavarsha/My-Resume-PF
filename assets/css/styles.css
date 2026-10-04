@@ -221,6 +221,12 @@ img {
   width: 360px;
 }
 */
+.home__img img {
+  width: 360px;
+  height: 360px;
+  object-fit: cover;
+  border-radius: 50%;
+}
 /*BUTTONS*/
 .button {
   display: inline-block;
